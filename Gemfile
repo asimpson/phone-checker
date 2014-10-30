@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.0.0'
+gem 'poltergeist', '~> 1.5.1'
+gem 'twilio-ruby', '~> 3.12'
+gem 'capybara', '~> 2.4.3'
+gem 'clockwork', '~> 1.0.0'
